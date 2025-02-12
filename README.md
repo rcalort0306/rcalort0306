@@ -2,19 +2,11 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/aman-atg/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://t.me/amanatg0">
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
 <a href="https://twitter.com/aman_atg">
   <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="mailto:aman.atg001@gmail.com">
+<a href="mailto:rcalort0306@g.educaand.es">
   <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
@@ -35,7 +27,7 @@ A Skilled FullStack Java Developer 🚀 from Spain. Always working on some proje
 - 👨🏽‍💻 DAW Student.
 - 💬 Ask me about anything related to Java, Html, Css, JS.
 - 🎿 Hobbies: Valorant.
-- 📫 Contacto: rcalort0306@gmail.com
+- 📫 Contacto: rcalort0306@g.educaand.es
 
 ### 🛠️ Languages and Tools:
 
