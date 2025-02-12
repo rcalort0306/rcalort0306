@@ -27,7 +27,7 @@ A Skilled FullStack Java Developer 🚀 from Spain. Always working on some proje
 - 👨🏽‍💻 DAW Student.
 - 💬 Ask me about anything related to Java, Html, Css, JS.
 - 🎿 Hobbies: Valorant.
-- 📫 Contacto: rcalort0306@g.educaand.es
+- 📫 Contact with me: rcalort0306@g.educaand.es
 
 ### 🛠️ Languages and Tools:
 
